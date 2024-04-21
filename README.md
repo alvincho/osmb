@@ -17,7 +17,7 @@ All tests within the OSMB framework are conducted offline on our dedicated machi
 
 ### Streamlit as a Data Viewer
 
-Once the data is prepared, it is then hosted on our Streamlit application, which acts as a dynamic viewer:
+Once the data is prepared, it is then hosted on our [Streamlit application](https://osmb-viewer.streamlit.app), which acts as a dynamic viewer:
 
 - **Interactive Visualization**: Streamlit provides an intuitive interface for users to interact with the data. Users can filter, sort, and visualize the test results according to different parameters, enhancing their understanding of the model's performance.
 
