@@ -38,26 +38,15 @@
             ],
             "testsets": [
                 {
-                    "title": "20240419-7",
-                    "description": "Use the GPT-4 generated basic financial Q&A set. Prompt template as: \n\nYou are a financial analyst. Answer the question below based on your knowledge. If you don't know the answer, just answer you don't know. \n\nQuestion: %question%\n\nResponse only in JSON format as {\"answer\": \"your answer\"} without any other text. If answer is a number, use string type enclosed by double quotes, no $ sign, comma, or unit is needed.",
-                    "datasets": [
-                        "fqa-01"
-                    ],
-                    "prompt_template": "simple_qa_001",
-                    "date_published": "2024-04-19",
-                    "location": "data/testsets/testset_20240419-7_models.csv",
-                    "testdata": "data/testsets/testset_20240419-7_testset.csv"
-                },
-                {
-                    "title": "20240420-1",
+                    "title": "20240425-1",
                     "description": "Use the GPT-4 generated basic financial Q&A set. Prompt template as: \n\nYou are a financial analyst. Answer the question below based on your knowledge. If you don't know the answer, just answer you don't know. \n\nQuestion: %question%\n\nResponse only in JSON format as {\"answer\": \"your answer\"} without any other text. No explanation is required. \n\nIf answer is a number, use string type enclosed by double quotes, no $ sign, comma, or unit is needed. Like {\"answer\":\"1000\"}",
                     "datasets": [
                         "fqa-01"
                     ],
                     "prompt_template": "simple_qa_002",
-                    "date_published": "2024-04-20",
-                    "location": "data/testsets/testset_20240420-1_models.csv",
-                    "testdata": "data/testsets/testset_20240420-1_testset.csv"
+                    "date_published": "2024-04-26",
+                    "location": "data/testsets/testset_20240425-1_models.csv",
+                    "testdata": "data/testsets/testset_20240425-1_results.csv"
                 }
             ]
         },

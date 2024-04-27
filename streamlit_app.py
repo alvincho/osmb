@@ -85,11 +85,9 @@ for test_set in test_sets:
 # Filters for different columns
 st.header('Detailed Test Results')
 st.write("Maximum 1000 records are displayed. Full data see [GitHub repository](https://github.com/alvincho/osmb).")
-col1, col2, col3, col4 = st.columns(4)
+col1, col3, col4 = st.columns(3)
 with col1:
-    filter_test_set = st.multiselect('Filter by Test Set', options=test_view_data['test_set'].unique())
-with col2:
-    filter_test_id = st.multiselect('Filter by Test ID', options=test_view_data['test_id'].unique())
+    filter_test_set = st.multiselect('Filter by Test Set', options=test_view_data['testset'].unique())
 with col3:
     filter_model = st.multiselect('Filter by Model', options=test_view_data['model'].unique())
 with col4:
@@ -97,9 +95,7 @@ with col4:
 
 # Apply filters to test_view_data
 if filter_test_set:
-    test_view_data = test_view_data[test_view_data['test_set'].isin(filter_test_set)]
-if filter_test_id:
-    test_view_data = test_view_data[test_view_data['test_id'].isin(filter_test_id)]
+    test_view_data = test_view_data[test_view_data['testset'].isin(filter_test_set)]
 if filter_model:
     test_view_data = test_view_data[test_view_data['model'].isin(filter_model)]
 if filter_correct:
