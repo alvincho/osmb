@@ -3,6 +3,13 @@ import pandas as pd
 import plotly.express as px
 import json
 import os
+from auth0_component import login_button
+
+clientId = "4KYseH1YBUnbtJKDm9ExrY7MZSIPkkwq"
+domain = "dev-ktpvkalz3pzralby.us.auth0.com"
+
+user_info = login_button(clientId, domain = domain)
+st.write(user_info)
 
 # Load configuration JSON
 #@st.cache_resource
@@ -62,7 +69,7 @@ for test_set in test_sets:
         all_data = pd.concat([all_data, df], ignore_index=True)
 
 # Determine top 5 models based on highest average correctness
-top_models = all_data.groupby('model')['correctness'].mean().nlargest(5).index.tolist()
+top_models = all_data.groupby('model')['correctness'].mean().nlargest(15).index.tolist()
 selected_models = st.multiselect('Select Models:', all_data['model'].unique(), default=top_models)
 final_data = all_data[all_data['model'].isin(selected_models)]
 
