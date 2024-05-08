@@ -127,7 +127,7 @@ if comments_sorted:
     for idx, item in enumerate(comments_sorted):
         st.html(f"<h3 id=\"finding_{idx}\">"+item['comment']+"</h3>")
         #key_finding_str += f"[*{item['comment']}*](#finding_{idx})\n\n"
-        key_finding_str += f"- [{item['comment']}\n]({streamlit_path}Test_Report.py?testset={testset_name}#{idx})\n"
+        key_finding_str += f"- [{item['comment']}\n]({streamlit_path}Test_Report?testset={testset_name}#{idx})\n"
         #st.subheader(item['comment'])
         if 'data' in item:
             df=pd.read_json(item['data'])
