@@ -9,7 +9,7 @@ with open('osmb.json', 'r') as f:
 dynamodb = boto3.resource('dynamodb', region_name='us-west-2')
 table = dynamodb.Table('osmb_comments')
 github_path="https://github.com/alvincho/osmb/"
-streamlit_path="https://osmb.streamlit.app/"
+streamlit_path="https://osmb-viewer.streamlit.app/"
 testplan=None
 selected_testset=None
 if "testset" in st.query_params:
