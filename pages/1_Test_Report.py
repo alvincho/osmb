@@ -129,7 +129,7 @@ if comments_sorted:
         #key_finding_str += f"[*{item['comment']}*](#finding_{idx})\n\n"
         key_finding_str += f"- [{item['comment']}\n]({streamlit_path}Test_Report?testset={testset_name}#{idx})\n"
         #st.subheader(item['comment'])
-        if 'data' in item:
+        if 'data' in item: 
             df=pd.read_json(item['data'])
             df=df.drop(['testplan','testset'],axis=1)
             if st.session_state.is_markdown:
