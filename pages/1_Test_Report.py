@@ -20,7 +20,10 @@ if "testset" in st.query_params:
             if testset['title']==st.query_params.testset:
                 #testplan = testplan_config
                 selected_testset=testset
+                #st.write(f"selected testplan {testplan['title']} {testset_name}")
                 break
+        if not selected_testset is None:
+            break
     if selected_testset==None:
         st.write("Testset "+st.query_params.testset+" not found")
         st.stop()
@@ -67,6 +70,7 @@ if 'location' in selected_testset:
     st.write(f"[Download data]({github_path}{selected_testset['location']})")
     try:
         model_data = pd.read_csv(selected_testset['location'])
+        model_data['correctness']=model_data['correct']/model_data['incorrect']*100
         if st.session_state.is_markdown:
             st.html("<pre>"+model_data.to_markdown()+"</pre>")
         else:
@@ -132,6 +136,7 @@ if comments_sorted:
         if 'data' in item: 
             df=pd.read_json(item['data'])
             df=df.drop(['testplan','testset'],axis=1)
+            df['correctness']=df['correct']/df['incorrect']*100
             if st.session_state.is_markdown:
                 st.html("<pre>"+df.to_markdown()+"</pre>")
             else:

@@ -1,0 +1,458 @@
+[
+    {
+        "answer": "126",
+        "question": "What was the percentage increase in NVIDIA's revenue year-on-year for fiscal 2024?"
+    },
+    {
+        "answer": "22.1",
+        "question": "How much revenue did NVIDIA generate in Q4 2024, in billions?"
+    },
+    {
+        "answer": "27",
+        "question": "What was the sequential percentage increase in NVIDIA's data center revenue from Q3 to Q4 2024?"
+    },
+    {
+        "answer": "5",
+        "question": "By how much did NVIDIA's compute revenue grow year-over-year in fiscal 2024, in multiples?"
+    },
+    {
+        "answer": "300",
+        "question": "What was the year-over-year growth percentage for NVIDIA's networking revenue in fiscal 2024?"
+    },
+    {
+        "answer": "50000",
+        "question": "How many organizations use GitHub Copilot business as noted by Microsoft?"
+    },
+    {
+        "answer": "40",
+        "question": "What was the percentage growth of GitHub revenue year-over-year?"
+    },
+    {
+        "answer": "10.45",
+        "question": "How much gaming revenue did NVIDIA generate in fiscal 2024, in billions?"
+    },
+    {
+        "answer": "11",
+        "question": "What was the sequential growth rate for NVIDIA's Pro Visualization revenue in Q4, in percentage?"
+    },
+    {
+        "answer": "1.55",
+        "question": "What was the total annual revenue for NVIDIA's Pro Visualization in fiscal 2024, in billions?"
+    },
+    {
+        "answer": "24",
+        "question": "What is the expected total revenue for NVIDIA in Q1 2025, in billions?"
+    },
+    {
+        "answer": "21",
+        "question": "What was the growth percentage in NVIDIA's Automotive revenue year-over-year?"
+    },
+    {
+        "answer": "1.09",
+        "question": "How much revenue did NVIDIA's Automotive segment generate in fiscal 2024, in billions?"
+    },
+    {
+        "answer": "40",
+        "question": "What percentage of data center revenue did NVIDIA estimate came from AI inference in the past year?"
+    },
+    {
+        "answer": "80",
+        "question": "How many vehicle manufacturers use NVIDIA's AI infrastructure for autonomous driving?"
+    },
+    {
+        "answer": "126",
+        "question": "What was the year-on-year percentage increase in NVIDIA's revenue for fiscal 2024?"
+    },
+    {
+        "answer": "22.1",
+        "question": "What was NVIDIA's revenue for Q4 2024, in billions of dollars?"
+    },
+    {
+        "answer": "27",
+        "question": "What percentage increase did NVIDIA's data center revenue experience from Q3 to Q4 2024?"
+    },
+    {
+        "answer": "5",
+        "question": "By how many times did NVIDIA's compute revenue grow year-over-year in fiscal 2024?"
+    },
+    {
+        "answer": "300",
+        "question": "What was the year-over-year growth percentage for NVIDIA's networking revenue in fiscal 2024?"
+    },
+    {
+        "answer": "50000",
+        "question": "How many organizations use GitHub Copilot business as noted in Microsoft's report?"
+    },
+    {
+        "answer": "40",
+        "question": "What was the year-over-year percentage growth of GitHub revenue?"
+    },
+    {
+        "answer": "10.45",
+        "question": "What was NVIDIA's total gaming revenue in fiscal 2024, in billions of dollars?"
+    },
+    {
+        "answer": "11",
+        "question": "What was the sequential quarterly growth rate for NVIDIA's Pro Visualization revenue in Q4 2024?"
+    },
+    {
+        "answer": "1.55",
+        "question": "What was NVIDIA's total Pro Visualization revenue in fiscal 2024, in billions of dollars?"
+    },
+    {
+        "answer": "24",
+        "question": "What is NVIDIA's expected total revenue for Q1 2025, in billions of dollars?"
+    },
+    {
+        "answer": "76",
+        "question": "What is the projected GAAP gross margin for NVIDIA in Q1 2025, as a percentage?"
+    },
+    {
+        "answer": "21",
+        "question": "What was the year-over-year growth percentage in NVIDIA's Automotive revenue for fiscal 2024?"
+    },
+    {
+        "answer": "1.09",
+        "question": "How much revenue did NVIDIA's Automotive segment generate in fiscal 2024, in billions of dollars?"
+    },
+    {
+        "answer": "40",
+        "question": "What percentage of NVIDIA's data center revenue was estimated to be from AI inference in the past year?"
+    },
+    {
+        "answer": "80",
+        "question": "How many vehicle manufacturers use NVIDIA's AI infrastructure for autonomous driving?"
+    },
+    {
+        "answer": "50",
+        "question": "What percentage of data center revenue did large cloud providers contribute to NVIDIA's earnings in Q4?"
+    },
+    {
+        "answer": "77",
+        "question": "What is the expected non-GAAP gross margin for NVIDIA in Q1 2025, as a percentage?"
+    },
+    {
+        "answer": "2.8",
+        "question": "How much did NVIDIA return to shareholders through share repurchases and dividends in Q4 2024, in billions of dollars?"
+    },
+    {
+        "answer": "2.5",
+        "question": "What is NVIDIA's projected non-GAAP operating expense for fiscal year 2025, in billions of dollars?"
+    },
+    {
+        "answer": "126",
+        "question": "What was the year-over-year growth percentage for NVIDIA's total revenue in fiscal 2024?"
+    },
+    {
+        "answer": "22.1",
+        "question": "What was the revenue for NVIDIA in Q4 2024, in billions?"
+    },
+    {
+        "answer": "409",
+        "question": "By how much did NVIDIA's data center revenue increase in Q4 2024 compared to the same quarter the previous year, in percentage?"
+    },
+    {
+        "answer": "5",
+        "question": "What was the year-over-year growth rate of NVIDIA's compute revenue in fiscal 2024, in multiples?"
+    },
+    {
+        "answer": "40",
+        "question": "What percentage of NVIDIA's data center revenue in Q4 2024 came from AI inference?"
+    },
+    {
+        "answer": "47.5",
+        "question": "What was the total revenue from NVIDIA's data center segment in fiscal 2024, in billions?"
+    },
+    {
+        "answer": "27",
+        "question": "What was the sequential growth percentage of NVIDIA's data center revenue from Q3 to Q4 2024?"
+    },
+    {
+        "answer": "10.45",
+        "question": "How much did NVIDIA's gaming revenue total in fiscal 2024, in billions?"
+    },
+    {
+        "answer": "50",
+        "question": "What percentage of NVIDIA's data center revenue in Q4 2024 was contributed by large cloud providers?"
+    },
+    {
+        "answer": "56",
+        "question": "What was the year-over-year percentage growth of NVIDIA's gaming revenue?"
+    },
+    {
+        "answer": "1.55",
+        "question": "How many billions of dollars did NVIDIA's Pro Visualization segment generate in fiscal 2024?"
+    },
+    {
+        "answer": "24",
+        "question": "What is NVIDIA's expected revenue for Q1 2025, in billions?"
+    },
+    {
+        "answer": "21",
+        "question": "What percentage growth did NVIDIA's Automotive revenue experience year-over-year in fiscal 2024?"
+    },
+    {
+        "answer": "1.09",
+        "question": "What was the total fiscal year 2024 revenue for NVIDIA's Automotive segment, in billions?"
+    },
+    {
+        "answer": "2.8",
+        "question": "How many billions did NVIDIA return to shareholders in Q4 2024 through share repurchases and dividends?"
+    },
+    {
+        "answer": "76",
+        "question": "What is NVIDIA's projected GAAP gross margin for Q1 2025, as a percentage?"
+    },
+    {
+        "answer": "18.4",
+        "question": "What was the revenue from NVIDIA's data center segment in Q4 2024, in billions?"
+    },
+    {
+        "answer": "3",
+        "question": "How many times did NVIDIA's networking revenue grow year-over-year in fiscal 2024?"
+    },
+    {
+        "answer": "78",
+        "question": "What percentage of NVIDIA's total revenue in fiscal 2024 was generated by the data center segment?"
+    },
+    {
+        "answer": "38.8",
+        "question": "What is the difference in billions between NVIDIA's total revenue in fiscal 2024 and Q4 2024 revenue?"
+    },
+    {
+        "answer": "7.3",
+        "question": "By how many times was the year-over-year growth in NVIDIA's data center revenue in Q4 2024 greater than the growth in gaming revenue?"
+    },
+    {
+        "answer": "55.9",
+        "question": "What is the ratio of NVIDIA's total revenue in fiscal 2024 to its automotive revenue in the same period?"
+    },
+    {
+        "answer": "-0.7",
+        "question": "How much higher in percentage points is NVIDIA's projected Q1 2025 GAAP gross margin compared to the non-GAAP gross margin?"
+    },
+    {
+        "answer": "37.05",
+        "question": "What is the difference in billions between NVIDIA's data center revenue and gaming revenue in fiscal 2024?"
+    },
+    {
+        "answer": "0",
+        "question": "By how much does NVIDIA's revenue from large cloud providers in Q4 2024 exceed half of the data center revenue, in percentage points?"
+    },
+    {
+        "answer": "304",
+        "question": "What is the difference in percentage points between the year-over-year growth rates of NVIDIA's data center revenue and Pro Visualization revenue in Q4 2024?"
+    },
+    {
+        "answer": "7.1",
+        "question": "How much more did NVIDIA return to shareholders in fiscal 2024 compared to the Q4 2024 return, in billions?"
+    },
+    {
+        "answer": "-84",
+        "question": "What is the difference between the year-over-year growth rates of NVIDIA's Automotive revenue and Pro Visualization revenue?"
+    },
+    {
+        "answer": "39.3",
+        "question": "How much greater is the fiscal 2024 total revenue compared to the revenue from Pro Visualization in the same period, in multiples?"
+    },
+    {
+        "answer": "0.46",
+        "question": "What is the revenue difference in billions between NVIDIA's Pro Visualization and Automotive segments in fiscal 2024?"
+    },
+    {
+        "answer": "37",
+        "question": "What is the difference in billions between NVIDIA's data center revenue and total gaming revenue in fiscal 2024?"
+    },
+    {
+        "answer": "59.8",
+        "question": "How much larger was NVIDIA's fiscal 2024 total revenue compared to its Automotive segment revenue, in billions?"
+    },
+    {
+        "answer": "-10",
+        "question": "What percentage of NVIDIA's data center revenue was AI inference revenue, and how does this compare to the contribution from cloud providers?"
+    },
+    {
+        "answer": "8.4",
+        "question": "Compare the growth in NVIDIA's data center revenue to its gaming revenue in fiscal 2024; how many times greater is the data center's growth?"
+    },
+    {
+        "answer": "1",
+        "question": "What is the difference in projected operating expenses between GAAP and non-GAAP for NVIDIA in fiscal year 2025, in billions?"
+    },
+    {
+        "answer": "0",
+        "question": "What is the difference in projected tax rates between GAAP and non-GAAP for NVIDIA in Q1 2025?"
+    },
+    {
+        "answer": "0.7",
+        "question": "How much higher is the non-GAAP gross margin compared to the GAAP gross margin for Q1 2025, in percentage points?"
+    },
+    {
+        "answer": "8.4",
+        "question": "What is the ratio of the increase in data center revenue to the increase in gaming revenue from fiscal 2023 to 2024?"
+    },
+    {
+        "answer": "6.4",
+        "question": "By what factor is NVIDIA's Q4 2024 data center revenue greater than its gaming revenue for the same period?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which department had the highest revenue growth in fiscal 2024 compared to the previous year?"
+    },
+    {
+        "answer": "Networking",
+        "question": "Which NVIDIA product line had the highest annualized revenue run rate reported in fiscal 2024?"
+    },
+    {
+        "answer": "Automotive",
+        "question": "Between Gaming, Pro Visualization, and Automotive, which department had the lowest year-over-year revenue growth in fiscal 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which department experienced the highest sequential revenue growth from Q3 to Q4 2024?"
+    },
+    {
+        "answer": "Automotive",
+        "question": "Which revenue segment contributed the least to NVIDIA's total fiscal 2024 revenue?"
+    },
+    {
+        "answer": "H200",
+        "question": "Which NVIDIA product is expected to nearly double the inference performance of its predecessor, as reported in fiscal 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Between Data Center and Gaming, which department reported higher revenue in Q4 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which NVIDIA department saw the greatest increase in revenue from the adoption of AI technologies as reported in fiscal 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Of all NVIDIA's departments, which one had the highest gross margin impact in Q4 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Among all product offerings, which had the highest impact on improving NVIDIA's gross margin in Q4 2024?"
+    },
+    {
+        "answer": "Automotive",
+        "question": "Which department reported the smallest revenue share from China in Q4 2024, following new U.S. export controls?"
+    },
+    {
+        "answer": "GeForce RTX 40 Super Series",
+        "question": "Which NVIDIA product family was highlighted for its strong performance and AI capabilities at CES?"
+    },
+    {
+        "answer": "Pro Visualization",
+        "question": "Between Pro Visualization and Gaming, which segment had the highest sequential growth in Q4 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which department reported the highest year-over-year growth in revenue in fiscal 2024 due to enterprise AI deployment?"
+    },
+    {
+        "answer": "NVIDIA DRIVE Orin",
+        "question": "Among the discussed NVIDIA product lines, which one is designated as the AI car computer of choice for software-defined AV fleets?"
+    },
+    {
+        "answer": "Gaming",
+        "question": "Which NVIDIA department's products were announced at CES to include new AI laptops from every major OEM?"
+    },
+    {
+        "answer": "Automotive",
+        "question": "Of NVIDIA's various departments, which one achieved over $1 billion in revenue last year from its offerings in AI infrastructure?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which NVIDIA segment has seen significant adoption across verticals such as automotive, healthcare, and financial services due to its AI solutions?"
+    },
+    {
+        "answer": "Healthcare",
+        "question": "Which NVIDIA department is responsible for the NVIDIA Clara healthcare platform and NVIDIA BioNeMo?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which department has the product line that became the de-facto standard for accelerated computing and AI infrastructure as per the fiscal 2024 report?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which department saw the highest percentage increase in revenue year-over-year in fiscal 2024?"
+    },
+    {
+        "answer": "Hopper",
+        "question": "Which NVIDIA product experienced the largest demand versus supply gap as reported in fiscal 2024?"
+    },
+    {
+        "answer": "Automotive",
+        "question": "Among NVIDIA's departments, which one reported the lowest revenue in fiscal 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which NVIDIA department had the highest revenue from large cloud providers in Q4 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which product line from NVIDIA drove the most revenue growth for the company in fiscal 2024?"
+    },
+    {
+        "answer": "Pro Visualization",
+        "question": "Between Gaming and Pro Visualization, which had the lowest growth rate in fiscal 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which department benefitted the most from the adoption of AI technologies according to NVIDIA's fiscal 2024 report?"
+    },
+    {
+        "answer": "Automotive",
+        "question": "Which department had the smallest percentage increase in revenue from Q3 to Q4 2024?"
+    },
+    {
+        "answer": "Hopper",
+        "question": "Which NVIDIA product was specifically mentioned as a major contributor to GitHub's revenue growth?"
+    },
+    {
+        "answer": "NVIDIA DRIVE Orin",
+        "question": "Among NVIDIA's product offerings, which one is the primary driver for the development of autonomous driving technologies?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which NVIDIA department saw the highest impact from U.S. government export control regulations in fiscal 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which department's revenue was primarily driven by generative AI capabilities as per the fiscal 2024 report?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "In fiscal 2024, which NVIDIA department's products were crucial in AI model training and inference?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which department reported the highest revenue in consumer internet companies in fiscal 2024?"
+    },
+    {
+        "answer": "Clara healthcare platform",
+        "question": "Which NVIDIA product line saw the highest usage and growth in healthcare applications in fiscal 2024?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Between Data Center and Gaming, which department showed the highest growth in deployment across cloud and on-premise environments in fiscal 2024?"
+    },
+    {
+        "answer": "Automotive",
+        "question": "Which department had the lowest revenue in Q4 2024 compared to other NVIDIA departments?"
+    },
+    {
+        "answer": "Data Center",
+        "question": "Which NVIDIA department had the highest reported growth due to AI solutions in vertical industries like automotive and healthcare?"
+    },
+    {
+        "answer": "Automotive",
+        "question": "In terms of revenue, which department lagged behind others in fiscal 2024?"
+    },
+    {
+        "answer": "Hopper",
+        "question": "Which NVIDIA product had the greatest influence on modern data centers as reported in fiscal 2024?"
+    }
+]
