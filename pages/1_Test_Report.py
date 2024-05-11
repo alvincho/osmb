@@ -9,6 +9,7 @@ with open('osmb.json', 'r') as f:
 dynamodb = boto3.resource('dynamodb', region_name='us-west-2')
 table = dynamodb.Table('osmb_comments')
 github_path="https://github.com/alvincho/osmb/"
+github_blob_path="https://github.com/alvincho/osmb/blob/main/"
 streamlit_path="https://osmb-viewer.streamlit.app/"
 testplan=None
 selected_testset=None
@@ -58,7 +59,7 @@ for ds in selected_testset['datasets']:
     dataset=config['datasets'][ds]
     st.write("#### "+dataset['title'])
     st.write(dataset['description'])
-    st.write(f"[Download data]({github_path}{dataset['location']})")
+    st.write(f"[Download data]({github_blob_path}{dataset['location']})")
 
 st.subheader("Prompt Template")
 template=config['prompt_templates'][selected_testset['prompt_template']]
@@ -67,7 +68,7 @@ st.write("> "+template['prompt'].replace('\n','\n> '))
 # Display CSV data if available
 if 'location' in selected_testset:
     st.write("#### Results by Models")
-    st.write(f"[Download data]({github_path}{selected_testset['location']})")
+    st.write(f"[Download data]({github_blob_path}{selected_testset['location']})")
     try:
         model_data = pd.read_csv(selected_testset['location'])
         model_data['correctness']=model_data['correct']/model_data['incorrect']*100
