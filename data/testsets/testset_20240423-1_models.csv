@@ -60,7 +60,9 @@ Polygon.io endpoint generation Q&A,20240423-1,gemma:2b,0.4525,181,219
 Polygon.io endpoint generation Q&A,20240423-1,mixtral:8x7b-instruct-v0.1-q2_K,0.4450,178,222
 Polygon.io endpoint generation Q&A,20240423-1,zephyr:7b,0.4286,216,288
 Polygon.io endpoint generation Q&A,20240423-1,gemma:2b-instruct-v1.1-q8_0,0.4275,171,229
+Polygon.io endpoint generation Q&A,20240423-1,llama3-chatqa:70b,0.4150,166,234
 Polygon.io endpoint generation Q&A,20240423-1,llama3-gradient:8b-instruct-1048k-q8_0,0.4050,162,238
+Polygon.io endpoint generation Q&A,20240423-1,llama3-chatqa:8b,0.4000,160,240
 Polygon.io endpoint generation Q&A,20240423-1,gemma:2b-instruct-v1.1-fp16,0.3850,154,246
 Polygon.io endpoint generation Q&A,20240423-1,llama3-gradient:8b-instruct-1048k-q4_0,0.3759,150,249
 Polygon.io endpoint generation Q&A,20240423-1,llama3-gradient:8b-instruct-1048k-fp16,0.3584,143,256

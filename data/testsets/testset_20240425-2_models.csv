@@ -30,6 +30,7 @@ Extraction Nvidia Earning Q&A,20240425-2,llama2:70b,0.1825,345,1545
 Extraction Nvidia Earning Q&A,20240425-2,mixtral:8x7b-instruct-v0.1-fp16,0.1742,342,1621
 Extraction Nvidia Earning Q&A,20240425-2,solar:10.7b,0.1734,346,1649
 Extraction Nvidia Earning Q&A,20240425-2,orca2:7b,0.1723,514,2470
+Extraction Nvidia Earning Q&A,20240425-2,llama3-chatqa:8b,0.1661,284,1426
 Extraction Nvidia Earning Q&A,20240425-2,yi:34b,0.1591,244,1290
 Extraction Nvidia Earning Q&A,20240425-2,mistral:7b-instruct-v0.2-fp16,0.1577,384,2051
 Extraction Nvidia Earning Q&A,20240425-2,llama2:13b,0.1562,544,2939
@@ -59,6 +60,7 @@ Extraction Nvidia Earning Q&A,20240425-2,gemma:7b,0.0784,134,1576
 Extraction Nvidia Earning Q&A,20240425-2,codellama:13b,0.0777,264,3135
 Extraction Nvidia Earning Q&A,20240425-2,openchat:7b,0.0747,255,3157
 Extraction Nvidia Earning Q&A,20240425-2,gemma:2b,0.0732,125,1583
+Extraction Nvidia Earning Q&A,20240425-2,llama3-chatqa:70b,0.0725,124,1586
 Extraction Nvidia Earning Q&A,20240425-2,gemma:7b-instruct-v1.1-q2_K,0.0690,118,1592
 Extraction Nvidia Earning Q&A,20240425-2,zephyr:7b,0.0509,79,1473
 Extraction Nvidia Earning Q&A,20240425-2,starling-lm:7b,0.0423,83,1877
