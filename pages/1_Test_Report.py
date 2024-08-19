@@ -31,11 +31,11 @@ if "testset" in st.query_params:
     st.session_state.is_markdown=False
 else:
     # Dropdown to select the test plan
-    testplan = st.selectbox("Select a Test Plan", [config['testplans'][key] for key in config['testplans']],format_func=lambda x:x['title'])
+    testplan = st.selectbox("Select a Test Plan", [config['testplans'][key] for key in config['testplans'] ],format_func=lambda x:x['title'])
     testplan_name=testplan['title']
 
     # Dropdown to select the test set from the selected test plan
-    testset_name = st.selectbox("Select a Test Set", [ts['title'] for ts in testplan['testsets']])
+    testset_name = st.selectbox("Select a Test Set", [ts['title'] for ts in testplan['testsets'] if ts['is_active']])
 
     # Find the selected test set details
     selected_testset = next(ts for ts in testplan['testsets'] if ts['title'] == testset_name)
