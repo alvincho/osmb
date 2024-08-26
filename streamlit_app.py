@@ -6,5 +6,5 @@ st.set_page_config(
 )
 
 st.write("# Welcome to OSMB! 👋")
-with open("README.md",r) as file:
+with open("README.md","r") as file:
     st.write(file.read())
