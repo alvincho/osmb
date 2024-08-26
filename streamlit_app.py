@@ -5,4 +5,5 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Welcome to OSMB! 👋")
+#st.write("# Welcome to OSMB! 👋")
+st.write(README.md)
