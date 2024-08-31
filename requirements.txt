@@ -1,7 +1,0 @@
-boto==2.49.0
-boto3==1.34.93
-botocore==1.34.93
-streamlit==1.34.0
-streamlit-auth0==1.0.5
-streamlit-auth0-component==0.1.5
-streamlit-authenticator==0.3.2
