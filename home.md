@@ -1,6 +1,6 @@
 # Open Source Model Benchmarker (OSMB)
 
-The **Open Source Model Benchmarker (OSMB)** leverages Streamlit as a sophisticated viewer to present the results of machine learning model tests. It's crucial for users to understand that in our application, Streamlit does not conduct live or real-time testing; rather, it serves as an advanced interface for interacting with pre-generated, static test data.
+The **Open Source Model Benchmarker Viewer (OSMB Viewer)** leverages Streamlit as a sophisticated viewer to present the results of machine learning model tests. It's crucial for users to understand that in our application, Streamlit does not conduct live or real-time testing; rather, it serves as an advanced interface for interacting with pre-generated, static test data.
 
 ## Test Data Generation
 
@@ -14,13 +14,6 @@ All tests within the OSMB framework are conducted offline on our dedicated machi
 
 3. **Data Processing**: The raw data obtained from the tests undergoes thorough cleaning and processing, converting it into a format suitable for analysis and display.
 
-### Streamlit as a Data Viewer
-
-Once the data is prepared, it is hosted on our [Streamlit application](https://osmb-viewer.streamlit.app), which acts as a dynamic viewer:
-
-- **Interactive Visualization**: Streamlit provides an intuitive interface for users to interact with the data. Users can filter, sort, and visualize the test results according to various parameters, enhancing their understanding of the model's performance.
-
-- **Accessibility**: By using Streamlit, we ensure that the test results are accessible in a user-friendly manner, allowing stakeholders to make informed decisions based on solid empirical data.
 
 ## Key Concepts
 
