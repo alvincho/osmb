@@ -1,2 +1,4 @@
 secrets.toml
 3_Comment_Results.py
+.DS_Store
+data/.DS_Store

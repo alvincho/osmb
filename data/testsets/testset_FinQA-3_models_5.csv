@@ -1,4 +1,5 @@
 testplan,testset,model,correctness,correct,incorrect
+<<<<<<< HEAD
 Basic Financial Q&A,FinQA-3,llama3:70b,0.6908,2321,1039
 Basic Financial Q&A,FinQA-3,llama3.1:405b-instruct-q2_K,0.6875,2310,1050
 Basic Financial Q&A,FinQA-3,qwen2:72b,0.6723,2259,1101
@@ -34,3 +35,39 @@ Basic Financial Q&A,FinQA-3,gemma2:2b,0.2223,747,2613
 Basic Financial Q&A,FinQA-3,deepseek-v2:16b,0.2116,711,2649
 Basic Financial Q&A,FinQA-3,nuextract:3.8b,0.2077,698,2662
 Basic Financial Q&A,FinQA-3,phi3.5:3.8b,0.1857,624,2736
+=======
+Basic Financial Q&A,FinQA-3,aya:35b,0.3634,1221,2139
+Basic Financial Q&A,FinQA-3,zephyr:7b,0.2586,869,2491
+Basic Financial Q&A,FinQA-3,gemma2:2b,0.2223,747,2613
+Basic Financial Q&A,FinQA-3,llama3.1:70b,0.6613,2222,1138
+Basic Financial Q&A,FinQA-3,qwen2:7b,0.3804,1278,2082
+Basic Financial Q&A,FinQA-3,firefunction-v2:70b,0.5848,1965,1395
+Basic Financial Q&A,FinQA-3,dbrx:132b,0.5875,1974,1386
+Basic Financial Q&A,FinQA-3,llama3:8b,0.3333,1120,2240
+Basic Financial Q&A,FinQA-3,deepseek-v2:236b,0.5795,1947,1413
+Basic Financial Q&A,FinQA-3,wizardlm2:8x22b,0.6104,2051,1309
+Basic Financial Q&A,FinQA-3,phi3:14b,0.408,1371,1989
+Basic Financial Q&A,FinQA-3,qwen2:72b,0.6723,2259,1101
+Basic Financial Q&A,FinQA-3,gemma2:9b,0.5985,2011,1349
+Basic Financial Q&A,FinQA-3,llama3:70b,0.6908,2321,1039
+Basic Financial Q&A,FinQA-3,llama3.1:8b,0.3842,1291,2069
+Basic Financial Q&A,FinQA-3,yi:9b-v1.5,0.3101,1042,2318
+Basic Financial Q&A,FinQA-3,command-r:35b,0.3304,1110,2250
+Basic Financial Q&A,FinQA-3,mistral-nemo:12b,0.3726,1252,2108
+Basic Financial Q&A,FinQA-3,mistral:v0.2,0.2789,937,2423
+Basic Financial Q&A,FinQA-3,yi:34b-v1.5,0.4708,1582,1778
+Basic Financial Q&A,FinQA-3,command-r-plus:104b,0.4467,1501,1859
+Basic Financial Q&A,FinQA-3,aya:8b,0.236,793,2567
+Basic Financial Q&A,FinQA-3,llama3-chatqa:70b,0.4205,1413,1947
+Basic Financial Q&A,FinQA-3,llama3.1:405b-instruct-q2_K,0.6875,2310,1050
+Basic Financial Q&A,FinQA-3,mixtral:8x22b,0.5375,1806,1554
+Basic Financial Q&A,FinQA-3,mistral-large:123b,0.6131,2060,1300
+Basic Financial Q&A,FinQA-3,glm4:9b,0.4134,1389,1971
+Basic Financial Q&A,FinQA-3,yi:6b-v1.5,0.2577,866,2494
+Basic Financial Q&A,FinQA-3,mistral:v0.3,0.3003,1009,2351
+Basic Financial Q&A,FinQA-3,mixtral:8x7b,0.4223,1419,1941
+Basic Financial Q&A,FinQA-3,deepseek-v2:16b,0.2116,711,2649
+Basic Financial Q&A,FinQA-3,internlm2:7b,0.2467,829,2531
+Basic Financial Q&A,FinQA-3,nuextract:3.8b,0.2077,698,2662
+Basic Financial Q&A,FinQA-3,gemma2:27b,0.6649,2234,1126
+>>>>>>> parent of 94137e9 (update calculation)

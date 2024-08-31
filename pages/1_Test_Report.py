@@ -123,7 +123,11 @@ while not done:
     done = start_key is None
 
 # Sort comments by timestamp in descending order
+<<<<<<< HEAD
 comments_sorted = sorted(comments, key=lambda x: x[sorted_by])
+=======
+comments_sorted = sorted(comments, key=lambda x: x[sorted_by], reverse=reverse_order)
+>>>>>>> parent of 94137e9 (update calculation)
 
 # Display comments
 if comments_sorted:
