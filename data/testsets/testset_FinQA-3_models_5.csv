@@ -1,5 +1,4 @@
 testplan,testset,model,correctness,correct,incorrect
-<<<<<<< HEAD
 Basic Financial Q&A,FinQA-3,llama3:70b,0.6908,2321,1039
 Basic Financial Q&A,FinQA-3,llama3.1:405b-instruct-q2_K,0.6875,2310,1050
 Basic Financial Q&A,FinQA-3,qwen2:72b,0.6723,2259,1101
@@ -35,7 +34,6 @@ Basic Financial Q&A,FinQA-3,gemma2:2b,0.2223,747,2613
 Basic Financial Q&A,FinQA-3,deepseek-v2:16b,0.2116,711,2649
 Basic Financial Q&A,FinQA-3,nuextract:3.8b,0.2077,698,2662
 Basic Financial Q&A,FinQA-3,phi3.5:3.8b,0.1857,624,2736
-=======
 Basic Financial Q&A,FinQA-3,aya:35b,0.3634,1221,2139
 Basic Financial Q&A,FinQA-3,zephyr:7b,0.2586,869,2491
 Basic Financial Q&A,FinQA-3,gemma2:2b,0.2223,747,2613
@@ -70,4 +68,3 @@ Basic Financial Q&A,FinQA-3,deepseek-v2:16b,0.2116,711,2649
 Basic Financial Q&A,FinQA-3,internlm2:7b,0.2467,829,2531
 Basic Financial Q&A,FinQA-3,nuextract:3.8b,0.2077,698,2662
 Basic Financial Q&A,FinQA-3,gemma2:27b,0.6649,2234,1126
->>>>>>> parent of 94137e9 (update calculation)
