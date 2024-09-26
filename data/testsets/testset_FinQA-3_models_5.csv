@@ -30,8 +30,8 @@ Basic Financial Q&A,FinQA-3,aya:35b,0.3634,1221,2139
 Basic Financial Q&A,FinQA-3,llama3:8b,0.3333,1120,2240
 Basic Financial Q&A,FinQA-3,command-r:35b,0.3304,1110,2250
 Basic Financial Q&A,FinQA-3,yi:9b-v1.5,0.3101,1042,2318
-Basic Financial Q&A,FinQA-3,mistral:v0.3,0.3003,1009,2351
 Basic Financial Q&A,FinQA-3,solar-pro:22b,0.3003,1009,2351
+Basic Financial Q&A,FinQA-3,mistral:v0.3,0.3003,1009,2351
 Basic Financial Q&A,FinQA-3,mistral:v0.2,0.2789,937,2423
 Basic Financial Q&A,FinQA-3,llama3.2:3b,0.2646,889,2471
 Basic Financial Q&A,FinQA-3,zephyr:7b,0.2586,869,2491
@@ -42,6 +42,8 @@ Basic Financial Q&A,FinQA-3,aya:8b,0.236,793,2567
 Basic Financial Q&A,FinQA-3,gemma2:2b,0.2223,747,2613
 Basic Financial Q&A,FinQA-3,deepseek-v2:16b,0.2116,711,2649
 Basic Financial Q&A,FinQA-3,nuextract:3.8b,0.2077,698,2662
+Basic Financial Q&A,FinQA-3,qwen2.5:1.5b,0.2027,681,2678
 Basic Financial Q&A,FinQA-3,phi3.5:3.8b,0.1857,624,2736
 Basic Financial Q&A,FinQA-3,llama3.2:1b,0.1598,537,2823
 Basic Financial Q&A,FinQA-3,nemotron-mini:4b,0.1086,365,2995
+Basic Financial Q&A,FinQA-3,qwen2.5:0.5b,0.0313,105,3255
