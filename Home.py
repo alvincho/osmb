@@ -6,6 +6,6 @@ st.set_page_config(
 )
 
 st.write("# Welcome to OSMB! 👋")
+st.image("images/Prompits-OSMB.jpg")
 with open("home.md","r") as file:
     st.write(file.read())
-st.image("images/Prompits-OSMB.jpg")
