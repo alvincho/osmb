@@ -14,6 +14,8 @@ All tests within the OSMB framework are conducted offline on our dedicated machi
 
 3. **Data Processing**: The raw data obtained from the tests undergoes thorough cleaning and processing, converting it into a format suitable for analysis and display.
 
+## OSMB Architecture
+![OSMB Architecture](images/Prompits-OSMB.jpg)
 
 ## Key Concepts
 
