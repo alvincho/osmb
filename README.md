@@ -23,7 +23,6 @@ Once the data is prepared, it is then hosted on our [Streamlit application](http
 
 - **Accessibility**: By using Streamlit, we ensure that the test results are accessible in a user-friendly manner, allowing stakeholders to make informed decisions based on solid empirical data.
 
-## Conclusion
 
 The primary role of Streamlit in the OSMB project is to provide a powerful and user-friendly platform for viewing detailed test results that have been generated offline. This separation of data generation and visualization ensures both the reliability of the test results and the efficiency of data exploration for users.
 
@@ -60,7 +59,6 @@ OSMB app is built with Streamlit, ensuring a smooth and responsive user experien
 
 This application is open for contributions and further development. If you are interested in improving OSMB or have suggestions, please refer to the contributing section or open an issue on GitHub.
 
-## Conclusion
 
 OSMB serves as a robust platform for the thorough examination and benchmarking of machine learning models, bringing clarity and insight into model performance across varied datasets and conditions.
 
@@ -76,6 +74,11 @@ graph TD;
     TestPlan --> Tests[Tests];
     Tests --> TestView[Test View];
 ```
+## How we calculate
+
+![OSMB Architecture](images/Prompits-OSMB.jpg)
+
+
 # Getting Started
 To run the OSMB app locally, follow these steps:
 

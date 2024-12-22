@@ -3,3 +3,4 @@ secrets.toml
 .DS_Store
 data/.DS_Store
 .DS_Store
+data/osmb_data.ipynb
