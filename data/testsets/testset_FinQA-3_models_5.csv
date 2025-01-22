@@ -1,4 +1,5 @@
 testplan,testset,model,correctness,correct,incorrect
+Basic Financial Q&A,FinQA-3,deepseek-reasoner,0.7594,2550,808
 Basic Financial Q&A,FinQA-3,llama3.3:70b-instruct-fp16,0.7158,2405,955
 Basic Financial Q&A,FinQA-3,llama3.3:70b-instruct-q8_0,0.7152,2403,957
 Basic Financial Q&A,FinQA-3,llama3.3:70b,0.7116,2391,969
@@ -17,6 +18,7 @@ Basic Financial Q&A,FinQA-3,deepseek-v2.5:236b,0.6583,2212,1148
 Basic Financial Q&A,FinQA-3,tulu3:70b,0.6561,2204,1155
 Basic Financial Q&A,FinQA-3,qwen2.5:32b-instruct-q8_0,0.6561,2204,1155
 Basic Financial Q&A,FinQA-3,deepseek-chat,0.652,2190,1169
+Basic Financial Q&A,FinQA-3,deepseek-coder,0.6518,2190,1170
 Basic Financial Q&A,FinQA-3,vanilj/phi-4,0.6277,2109,1251
 Basic Financial Q&A,FinQA-3,qwq:32b,0.6223,2091,1269
 Basic Financial Q&A,FinQA-3,mistral-large:123b,0.6131,2060,1300
@@ -59,15 +61,15 @@ Basic Financial Q&A,FinQA-3,yi:9b-v1.5,0.3101,1042,2318
 Basic Financial Q&A,FinQA-3,marco-o1:7b,0.3083,1036,2324
 Basic Financial Q&A,FinQA-3,granite3-dense:8b,0.3036,1020,2340
 Basic Financial Q&A,FinQA-3,sailor2:8b,0.3009,1011,2349
-Basic Financial Q&A,FinQA-3,mistral:v0.3,0.3003,1009,2351
 Basic Financial Q&A,FinQA-3,solar-pro:22b,0.3003,1009,2351
+Basic Financial Q&A,FinQA-3,mistral:v0.3,0.3003,1009,2351
 Basic Financial Q&A,FinQA-3,gemma:7b,0.2958,994,2366
 Basic Financial Q&A,FinQA-3,wizardlm2:7b-q8_0,0.2949,991,2369
 Basic Financial Q&A,FinQA-3,granite3.1-dense:8b,0.2929,984,2376
 Basic Financial Q&A,FinQA-3,mistral:7b,0.2807,943,2417
 Basic Financial Q&A,FinQA-3,phi3:3.8b-mini-instruct-4k-fp16,0.2804,942,2418
-Basic Financial Q&A,FinQA-3,mistral:v0.2,0.2789,937,2423
 Basic Financial Q&A,FinQA-3,wizardlm2:7b,0.2789,937,2423
+Basic Financial Q&A,FinQA-3,mistral:v0.2,0.2789,937,2423
 Basic Financial Q&A,FinQA-3,exaone3.5:2.4b,0.276,927,2432
 Basic Financial Q&A,FinQA-3,solar:10.7b,0.2714,912,2448
 Basic Financial Q&A,FinQA-3,gemma:7b-instruct-v1.1-q2_K,0.2711,911,2449
