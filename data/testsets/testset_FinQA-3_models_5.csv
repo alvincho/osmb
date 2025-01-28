@@ -15,8 +15,8 @@ Basic Financial Q&A,FinQA-3,qwen2:72b,0.6723,2259,1101
 Basic Financial Q&A,FinQA-3,gemma2:27b,0.6649,2234,1126
 Basic Financial Q&A,FinQA-3,llama3.1:70b,0.6613,2222,1138
 Basic Financial Q&A,FinQA-3,deepseek-v2.5:236b,0.6583,2212,1148
-Basic Financial Q&A,FinQA-3,tulu3:70b,0.6561,2204,1155
 Basic Financial Q&A,FinQA-3,qwen2.5:32b-instruct-q8_0,0.6561,2204,1155
+Basic Financial Q&A,FinQA-3,tulu3:70b,0.6561,2204,1155
 Basic Financial Q&A,FinQA-3,deepseek-chat,0.652,2190,1169
 Basic Financial Q&A,FinQA-3,deepseek-coder,0.6518,2190,1170
 Basic Financial Q&A,FinQA-3,vanilj/phi-4,0.6277,2109,1251
@@ -48,8 +48,8 @@ Basic Financial Q&A,FinQA-3,gemma:7b-instruct-v1.1-q8_0,0.3744,1258,2102
 Basic Financial Q&A,FinQA-3,mistral-nemo:12b,0.3726,1252,2108
 Basic Financial Q&A,FinQA-3,tulu3:8b,0.372,1250,2110
 Basic Financial Q&A,FinQA-3,llama3:8b-instruct-q8_0,0.3655,1228,2132
-Basic Financial Q&A,FinQA-3,llama3:8b-instruct-q6_K,0.3634,1221,2139
 Basic Financial Q&A,FinQA-3,aya:35b,0.3634,1221,2139
+Basic Financial Q&A,FinQA-3,llama3:8b-instruct-q6_K,0.3634,1221,2139
 Basic Financial Q&A,FinQA-3,gemma:7b-v1.1,0.3574,1201,2159
 Basic Financial Q&A,FinQA-3,qwen2.5:7b,0.336,1129,2231
 Basic Financial Q&A,FinQA-3,falcon3:7b,0.3356,1127,2231
@@ -60,9 +60,10 @@ Basic Financial Q&A,FinQA-3,starling-lm:7b-beta-q8_0,0.3158,1061,2299
 Basic Financial Q&A,FinQA-3,yi:9b-v1.5,0.3101,1042,2318
 Basic Financial Q&A,FinQA-3,marco-o1:7b,0.3083,1036,2324
 Basic Financial Q&A,FinQA-3,granite3-dense:8b,0.3036,1020,2340
+Basic Financial Q&A,FinQA-3,deepseek-r1:14b-qwen-distill-q4_K_M,0.3018,1014,2346
 Basic Financial Q&A,FinQA-3,sailor2:8b,0.3009,1011,2349
-Basic Financial Q&A,FinQA-3,solar-pro:22b,0.3003,1009,2351
 Basic Financial Q&A,FinQA-3,mistral:v0.3,0.3003,1009,2351
+Basic Financial Q&A,FinQA-3,solar-pro:22b,0.3003,1009,2351
 Basic Financial Q&A,FinQA-3,gemma:7b,0.2958,994,2366
 Basic Financial Q&A,FinQA-3,wizardlm2:7b-q8_0,0.2949,991,2369
 Basic Financial Q&A,FinQA-3,granite3.1-dense:8b,0.2929,984,2376
@@ -81,6 +82,7 @@ Basic Financial Q&A,FinQA-3,phi3:3.8b,0.2554,858,2502
 Basic Financial Q&A,FinQA-3,qwen2.5:3b,0.2551,857,2503
 Basic Financial Q&A,FinQA-3,dolphin-llama3:8b-v2.9,0.2506,842,2518
 Basic Financial Q&A,FinQA-3,mistral:7b-instruct-v0.2-q8_0,0.2503,841,2519
+Basic Financial Q&A,FinQA-3,deepseek-r1:32b-qwen-distill-q4_K_M,0.2497,839,2521
 Basic Financial Q&A,FinQA-3,internlm2:7b,0.2467,829,2531
 Basic Financial Q&A,FinQA-3,llama3-gradient:8b-instruct-1048k-q8_0,0.2438,819,2541
 Basic Financial Q&A,FinQA-3,aya:8b,0.236,793,2567
@@ -100,6 +102,7 @@ Basic Financial Q&A,FinQA-3,llama3-chatqa:8b,0.1729,581,2779
 Basic Financial Q&A,FinQA-3,llama3.2:1b,0.1598,537,2823
 Basic Financial Q&A,FinQA-3,granite3-dense:2b,0.1568,527,2833
 Basic Financial Q&A,FinQA-3,falcon3:3b,0.1423,478,2882
+Basic Financial Q&A,FinQA-3,deepseek-r1:8b-llama-distill-q4_K_M,0.1375,462,2898
 Basic Financial Q&A,FinQA-3,wizardlm2:7b-q2_K,0.1327,446,2914
 Basic Financial Q&A,FinQA-3,llama2:13b,0.1277,429,2931
 Basic Financial Q&A,FinQA-3,qwen:7b,0.1089,366,2994
@@ -112,6 +115,7 @@ Basic Financial Q&A,FinQA-3,orca2:7b,0.0771,259,3100
 Basic Financial Q&A,FinQA-3,granite3-moe:3b,0.0765,257,3103
 Basic Financial Q&A,FinQA-3,gemma:2b-instruct-v1.1-fp16,0.0583,196,3164
 Basic Financial Q&A,FinQA-3,gemma:2b-instruct-v1.1-q8_0,0.0557,187,3173
+Basic Financial Q&A,FinQA-3,deepseek-r1:7b-qwen-distill-q4_K_M,0.05,168,3192
 Basic Financial Q&A,FinQA-3,gemma:2b-v1.1,0.0494,166,3194
 Basic Financial Q&A,FinQA-3,llama2-uncensored:7b,0.0485,163,3197
 Basic Financial Q&A,FinQA-3,gemma:2b,0.0414,139,3221
@@ -122,6 +126,7 @@ Basic Financial Q&A,FinQA-3,qwen:1.8b,0.0143,48,3312
 Basic Financial Q&A,FinQA-3,granite3-moe:1b,0.011,37,3323
 Basic Financial Q&A,FinQA-3,qwen:0.5b,0.0101,34,3326
 Basic Financial Q&A,FinQA-3,smollm:1.7b,0.0033,11,3348
-Basic Financial Q&A,FinQA-3,smollm:360m,0.0,0,3359
+Basic Financial Q&A,FinQA-3,deepseek-r1:70b-llama-distill-q4_K_M,0.0018,6,3351
 Basic Financial Q&A,FinQA-3,falcon2:11b,0.0,0,3360
 Basic Financial Q&A,FinQA-3,smollm:135m,0.0,0,3360
+Basic Financial Q&A,FinQA-3,smollm:360m,0.0,0,3359
